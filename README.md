@@ -50,3 +50,8 @@ The dataset includes:
 <p align="center">
   <img src="Dashboard.png" width="800">
 </p>
+
+## Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/kareem-ahmed-abdelmoomen/))
+
