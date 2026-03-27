@@ -47,3 +47,6 @@ The dataset includes:
 - The average property price is around 14.7M EGP, with an average price per meter of 65K EGP and an average property area of approximately 220 m², providing a general overview of the real estate market pricing level.
 - Price per square meter varies significantly between cities, indicating that location is one of the most important factors affecting property valuation in Egypt.
 ## Dashboard
+<p align="center">
+  <img src="Dashboard.png" width="800">
+</p>
