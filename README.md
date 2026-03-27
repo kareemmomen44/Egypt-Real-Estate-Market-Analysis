@@ -53,5 +53,5 @@ The dataset includes:
 
 ## Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/kareem-ahmed-abdelmoomen/))
-
+- LinkedIn: https://www.linkedin.com/in/kareem-ahmed-abdelmoomen/
+- GitHub: https://github.com/kareemmomen44
